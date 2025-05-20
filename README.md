@@ -2,7 +2,7 @@
 
 A disposable camera-inspired app for group events. Organizers create events with QR codes, participants snap photos (up to 50), and all photos auto-share via Google Drive after 24 hours.
 
-## Features
+ Features
 - 🎟️ **QR Code Event Creation**: Generate unique QR codes for events
 - 📸 **Photo Limits**: 50 photos/event, 24-hour delay before sharing
 - ☁️ **Auto-Delete & Share**: Photos deleted from temp storage after sharing
