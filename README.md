@@ -104,3 +104,5 @@ firebase deploy --only functions # Force redeploy
 firebase emulators:start --debug # Verbose logging
 License
 MIT © 2024 [MADHAVAN]
+
+be crazyy MADDDDDDDDDDDDDDDDDDD
