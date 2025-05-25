@@ -11,3 +11,4 @@
 ### Notifications
 - **GET /notify/{eventId}**  
   Sends photos to participants via email/push.
+  
