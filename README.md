@@ -105,4 +105,4 @@ firebase emulators:start --debug # Verbose logging
 License
 MIT © 2024 [MADHAVAN]
 
-be crazyy MADDDDDDDDDDDDDDDDDDD
+be crazyy MADDDDDDDDDDDDDDDDD
